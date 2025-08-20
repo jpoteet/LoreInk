@@ -71,10 +71,10 @@ return [
     'logging' => [
         'enabled' => true,
         'level' => 'debug',
-        'file' => 'form_rw2F3D6EB7_B289_41A7_80EA_0CBE39F9F43A.log'
+        'file' => 'form_rw02A69B7F_E161_4F58_95D5_4009D4E6610D.log'
     ],
 
     // Component metadata
-    'component_id' => 'rw2F3D6EB7_B289_41A7_80EA_0CBE39F9F43A',
+    'component_id' => 'rw02A69B7F_E161_4F58_95D5_4009D4E6610D',
     'generated_at' => '',
 ];
